@@ -16,16 +16,19 @@ Adding a new visited country .After adding the country that country would be hig
 Tech Stack
 
  ### Frontend
-- **HTML** -
-- **CSS** -
+ - **HTML** 
+ - **CSS** 
 
   ### Backend
-- **Node.js** -
-- **Express** -
+ - **Node.js** 
+ - **Express** 
   
 
   ### Database
-- **PostgreSQL** -
+ - **PostgreSQL** 
 
-   ### Others
-  - **EJS** -
+  ### Others
+  - **EJS** 
+  - 
+ ### npm modules
+ - **body-parser** 
