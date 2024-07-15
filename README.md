@@ -29,6 +29,6 @@ Tech Stack
 
   ### Others
   - **EJS** 
-  - 
+    
  ### npm modules
  - **body-parser** 
