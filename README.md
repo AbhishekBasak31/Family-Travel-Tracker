@@ -12,3 +12,20 @@ Add new family member area
 Adding a new visited country .After adding the country that country would be highlighted by the choosen color .
 
 ![WhatsApp Image 2024-07-15 at 02 00 45_be45c79a](https://github.com/user-attachments/assets/1c821d08-43d9-4187-9168-c90d76d40e73)
+
+Tech Stack
+
+ ### Frontend
+- **HTML** -
+- **CSS** -
+
+  ### Backend
+- **Node.js** -
+- **Express** -
+  
+
+  ### Database
+- **PostgreSQL** -
+
+  ##Others
+  - **EJS** -
