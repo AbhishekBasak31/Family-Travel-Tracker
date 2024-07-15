@@ -27,5 +27,5 @@ Tech Stack
   ### Database
 - **PostgreSQL** -
 
-  ##Others
+   ### Others
   - **EJS** -
